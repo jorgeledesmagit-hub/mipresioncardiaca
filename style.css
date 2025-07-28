@@ -1,0 +1,33 @@
+.contenedor-pestanas {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.nav-pestanas {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.pestana-btn {
+    padding: 10px 20px;
+    border: none;
+    background: #f0f0f0;
+    cursor: pointer;
+}
+
+.pestana-btn.active {
+    background: #007bff;
+    color: white;
+}
+
+.contenido-pestanas {
+    display: none;
+}
+
+.contenido-pestenas.active {
+    display: block;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 5px;
+}
