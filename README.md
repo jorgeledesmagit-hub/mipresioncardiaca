@@ -1,0 +1,1 @@
+Este programa se encarga de llavar el control del monitoreo de la presion cardiaca medida con un aparato de medicion arterial, para luego poder mostrar a quien lo requiera o simplemente para monitorear los mismos.
